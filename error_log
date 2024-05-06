@@ -1,0 +1,22 @@
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  Undefined property: stdClass::$theme in /home/skatim/public_html/inc/header.inc.php on line 70
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  Undefined property: stdClass::$theme in /home/skatim/public_html/inc/header.inc.php on line 70
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  Undefined property: stdClass::$theme in /home/skatim/public_html/inc/header.inc.php on line 70
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  Undefined property: stdClass::$theme in /home/skatim/public_html/inc/header.inc.php on line 70
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  A non well formed numeric value encountered in /home/skatim/public_html/inc/samp.inc.php on line 56
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/skatim/public_html/inc/samp.inc.php on line 61
+[09-Dec-2016 10:12:09 UTC] PHP Notice:  Undefined property: stdClass::$theme in /home/skatim/public_html/inc/header.inc.php on line 70
+[09-Dec-2016 10:12:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skatim/public_html/inc/pages/signature.p.php:34) in /home/skatim/public_html/inc/pages/signature.p.php on line 5
